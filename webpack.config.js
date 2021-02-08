@@ -4,7 +4,6 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 // 获取绝对路径
 const resolve = dir => path.resolve(__dirname, dir);
 
-/////////////////////
 
 module.exports = {
   mode: 'development',
